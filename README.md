@@ -1,1 +1,1 @@
-gcloud builds submit -t us-east1-docker.pkg.dev/soluna-mystica/irule-center/irule-center:0 ./
+gcloud builds submit -t us-east1-docker.pkg.dev/soluna-mystica/irule-center/irule-center:6 ./

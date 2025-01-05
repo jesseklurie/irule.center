@@ -170,16 +170,16 @@ const data = {
       url: "https://jacococal.com",
       thumbnail_url: Gallina,
     },
-    {
-      id: 3,
-      title: 'Soluna Mystica',
-      thumbnail_url: BlogImage3,
-      date: 'September 2, 2024',
-      postLink: '#3',
-      url: "https://solunamystica.com",
-      thumbnail_url: SolunaMystica,
+    // {
+    //   id: 3,
+    //   title: 'Soluna Mystica',
+    //   thumbnail_url: BlogImage3,
+    //   date: 'September 2, 2024',
+    //   postLink: '#3',
+    //   url: "https://solunamystica.com",
+    //   thumbnail_url: SolunaMystica,
       
-    },
+    // },
     {
       id: 4,
       title: 'Q Realty Group Costa Rica',
